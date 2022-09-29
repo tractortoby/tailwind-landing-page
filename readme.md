@@ -1,8 +1,6 @@
-# Tailwind Manage Landing Page
+# Tailwind Manage Landing Page Clone
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
-
-![Alt text](/img/screen.png?raw=true)
+![Alt text](/src/img/screen.png?raw=true)
 
 # Usage
 
